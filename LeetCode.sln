@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse_Integer", "Reverse_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Container_With_Most_Water", "Container_With_Most_Water\Container_With_Most_Water.csproj", "{63D7A85F-822A-4647-9B50-7D8209DB8552}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge_k_Sorted_Lists", "Merge_k_Sorted_Lists\Merge_k_Sorted_Lists.csproj", "{5843FC96-C6BD-495C-876D-EEE485CD1522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge_k_Sorted_Lists", "Merge_k_Sorted_Lists\Merge_k_Sorted_Lists.csproj", "{5843FC96-C6BD-495C-876D-EEE485CD1522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Nodes in k-Group", "Reverse Nodes in k-Group\Reverse Nodes in k-Group.csproj", "{3D68072E-13C9-4F3F-9C06-F749670C0BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5843FC96-C6BD-495C-876D-EEE485CD1522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5843FC96-C6BD-495C-876D-EEE485CD1522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5843FC96-C6BD-495C-876D-EEE485CD1522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D68072E-13C9-4F3F-9C06-F749670C0BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D68072E-13C9-4F3F-9C06-F749670C0BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D68072E-13C9-4F3F-9C06-F749670C0BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D68072E-13C9-4F3F-9C06-F749670C0BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
